@@ -202,11 +202,12 @@ Check out my website here!
 <p align="left">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rcwoshimao&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="rebecca" /></p>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rcwoshimao&show_icons=true&locale=en&theme=chartreuse-dark" alt="rebecca" width="410" /></p>
 <br><br><br><br><br>
 
 --> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rcwoshimao&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="rebecca" /></p>
 ---
 
 Credit: [10Kartik](https://github.com/10Kartik) & [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
