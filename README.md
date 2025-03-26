@@ -15,6 +15,8 @@
 <h3 align="center">Undergraduate @ UCSD | Incoming Software Engineer Intern at Mastercard | Halıcıoğlu Data Science Institute Instrutional Assistant  </h3>
 <h3 align="center">CogSci ML | CS | DS </h3>
 
+<h1> <a href="https://personal-website-rc.vercel.app/projects" target="_blank"> Checkout my website! </a> </h1>
+
   <p align="center">
     I am a passionate developer proficient in Java, Python, Swift, and React with hands-on experience in web and mobile development and data analysis ☺️.   I also enjoy the process of teaching, and have experience tutoring for non-profit organizations in a wide range of technical fields. 
   </p> 
@@ -36,11 +38,6 @@
 🗓️ **2022 - Ongoing**  
 - Offered **personalized guidance** for students navigating college applications 🎓  
 - Assisted with **essays, financial aid, and equitable access to education** ✍️💰  
-
-
-
-### Personal website 
-Check out my website here! 
 
 ### 🛠 Language & Tools
 
