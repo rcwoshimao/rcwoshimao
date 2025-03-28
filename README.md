@@ -185,7 +185,7 @@
   alt="Visual Studio"/>
 </a>
 
-<a href="https://code.visualstudio.com/" target="_blank"> 
+<a href="https://monkeytype.com/" target="_blank"> 
   <img src="https://img.shields.io/badge/monkeytype-grey?style=for-the-badge&logo=monkeytype"
     alt="VS Code"/>
 </a>
