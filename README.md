@@ -181,8 +181,8 @@
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank"> 
-  <img src="https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white" 
-    alt="VS Code"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" 
+  alt="Visual Studio"/>
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank"> 
