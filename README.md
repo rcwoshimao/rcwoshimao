@@ -185,6 +185,12 @@
   alt="Visual Studio"/>
 </a>
 
+<a href="https://www.overleaf.com/" target="_blank"> 
+  <img src="https://img.shields.io/badge/overleaf?style=for-the-badge&logo=vs-code&logoColor=white"
+  alt="Overleaf"/>
+</a>
+
+
 <a href="https://monkeytype.com/" target="_blank"> 
   <img src="https://img.shields.io/badge/monkeytype-grey?style=for-the-badge&logo=monkeytype"
     alt="VS Code"/>
