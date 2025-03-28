@@ -12,7 +12,7 @@
 </p>
 <hr>
 <h1 align="center">Hello! This is Rc!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  </h1>
-<h3 align="center">Undergraduate @ UCSD | Incoming Software Engineer Intern at Mastercard | Halıcıoğlu Data Science Institute Instrutional Assistant  </h3>
+<h3 align="center">Undergraduate @ UCSD </h3>
 <h3 align="center">CogSci ML | CS | DS </h3>
 
 <h1 align="center"> <a href="https://personal-website-rc.vercel.app/" target="_blank"> Checkout my website! </a> </h1>
@@ -210,7 +210,7 @@
 
 Credit: [10Kartik](https://github.com/10Kartik) & [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
 
-Last Edited on: 11/03/2025
+Last Edited on: 28/03/2025
 
 
 
