@@ -186,7 +186,7 @@
 </a>
 
 <a href="https://www.overleaf.com/" target="_blank"> 
-  <img src="https://img.shields.io/badge/overleaf-47A141?style=for-the-badge&logo=vs-code&logoColor=white"
+  <img src="https://img.shields.io/badge/overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white"
   alt="Overleaf"/>
 </a>
 
