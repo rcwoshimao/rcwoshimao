@@ -181,7 +181,7 @@
 </a>
 
 <a href="https://code.visualstudio.com/" target="_blank"> 
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" 
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" 
   alt="Visual Studio"/>
 </a>
 
