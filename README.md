@@ -15,7 +15,7 @@
 <h3 align="center">Undergraduate @ UCSD </h3>
 <h3 align="center">CogSci ML | CS | DS </h3>
 
-<h1 align="center"> <a href="https://rc-personal-website.vercel.app/" target="_blank"> Checkout my website! </a> </h1>
+<h1 align="center"> <a href="https://rcwoshimaodev.vercel.app/" target="_blank"> Checkout my website! </a> </h1>
 
   <p align="center">
     I am a passionate developer proficient in Java, Python, Swift, and React with hands-on experience in web and mobile development and data analysis ☺️.   I also enjoy the process of teaching, and have experience tutoring for non-profit organizations in a wide range of technical fields. 
